@@ -2,11 +2,7 @@
 
 [![CI](https://github.com/MathieuGermain/ts-base-project/actions/workflows/build.yml/badge.svg)](https://github.com/MathieuGermain/ts-base-project/actions/workflows/build.yml)
 
-**Strict TypeScript template using yarn.**
-- `Github Actions`
-- `ES6 / TypeScript`
-- `ESLint`
-- `Prettier`
+Strict TypeScript template using yarn / CommonJS / TypeScript / Jest / ESLint / Prettier / Github Actions
 
 <br>
 
