@@ -1,7 +1,7 @@
 {
   "name": "ts-base-project",
   "version": "1.0.0",
-  "description": "Typescript Base Project",
+  "description": "Strict TypeScript template using yarn / Github Actions / ES6 / TypeScript / ESLint / Prettier",
   "type": "commonjs",
   "main": "dist/index.js",
   "scripts": {
