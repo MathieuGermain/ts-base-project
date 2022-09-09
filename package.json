@@ -9,6 +9,7 @@
     "lint": "yarn run eslint --fix --ext .ts src",
     "prebuild": "yarn run lint",
     "build": "yarn run tsc",
+    "test": "echo test",
     "start": "node ./dist/index.js"
   },
   "author": "MathieuGermain",
