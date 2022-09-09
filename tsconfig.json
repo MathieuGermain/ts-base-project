@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "allowJs": false,
+      "sourceMap": true,
+      "outDir": "./dist",
+      "strict": true,
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "baseUrl": "./",
+      "typeRoots": ["node_modules/@types"],
+      "esModuleInterop": true
+  }
+}
