@@ -1,4 +1,4 @@
-# Typescript Base Project
+# Typescript Template
 
 [![CI](https://github.com/MathieuGermain/ts-base-project/actions/workflows/tests.yml/badge.svg)](https://github.com/MathieuGermain/ts-base-project/actions/workflows/tests.yml)
 
