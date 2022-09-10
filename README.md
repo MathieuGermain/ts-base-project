@@ -1,6 +1,6 @@
 # Typescript Base Project
 
-[![CI](https://github.com/MathieuGermain/ts-base-project/actions/workflows/build.yml/badge.svg)](https://github.com/MathieuGermain/ts-base-project/actions/workflows/build.yml)
+[![CI](https://github.com/MathieuGermain/ts-base-project/actions/workflows/tests.yml/badge.svg)](https://github.com/MathieuGermain/ts-base-project/actions/workflows/tests.yml)
 
 Strict TypeScript template using yarn / CommonJS / TypeScript / Jest / ESLint / Prettier / Github Actions
 
