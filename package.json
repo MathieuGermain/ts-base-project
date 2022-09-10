@@ -6,10 +6,10 @@
   "main": "dist/index.js",
   "scripts": {
     "clean": "del-cli -f ./dist ./types",
-    "lint": "yarn run eslint --fix --ext .ts src --cache src --cache-location node_modules/.cache/.eslintcache",
+    "prepublish": "yarn build",
     "prebuild": "yarn clean && yarn run lint",
     "build": "yarn run tsc",
-    "prepublish": "yarn build",
+    "lint": "yarn run eslint --fix --ext .ts src tests --cache src tests --cache-location node_modules/.cache/",
     "test": "jest",
     "dev:test": "jest --watch",
     "dev:build": "tsc --watch",

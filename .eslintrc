@@ -8,5 +8,8 @@
     "@typescript-eslint",
     "prettier"
   ],
+  "rules": {
+    "prettier/prettier": "warn"
+  },
   "root": true
 }
