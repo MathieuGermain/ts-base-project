@@ -1,6 +1,6 @@
 # Typescript Template
 
-[![CI](https://github.com/MathieuGermain/ts-base-project/actions/workflows/tests.yml/badge.svg)](https://github.com/MathieuGermain/ts-base-project/actions/workflows/tests.yml)
+[![CI](https://github.com/MathieuGermain/typescript-template/actions/workflows/tests.yml/badge.svg)](https://github.com/MathieuGermain/typescript-template/actions/workflows/tests.yml)
 
 Strict TypeScript template using yarn / CommonJS / TypeScript / Jest / ESLint / Prettier / Github Actions
 
@@ -11,7 +11,7 @@ Strict TypeScript template using yarn / CommonJS / TypeScript / Jest / ESLint / 
 Create repository from template using [GitHub CLI](https://cli.github.com/).
 ```bash
 # Replace <new-repo-name> for your new repository name.
-gh repo create <new-repo-name> --template="MathieuGermain/ts-base-project"
+gh repo create <new-repo-name> --template="MathieuGermain/typescript-template"
 ```
 
 <br>

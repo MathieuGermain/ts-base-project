@@ -27,13 +27,13 @@
     "Prettier",
     "Github Actions"
   ],
-  "homepage": "https://github.com/MathieuGermain/ts-base-project#readme",
+  "homepage": "https://github.com/MathieuGermain/typescript-template#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MathieuGermain/ts-base-project.git"
+    "url": "git+https://github.com/MathieuGermain/typescript-template.git"
   },
   "bugs": {
-    "url": "https://github.com/MathieuGermain/ts-base-project/issues"
+    "url": "https://github.com/MathieuGermain/typescript-template/issues"
   },
   "dependencies": {},
   "devDependencies": {
