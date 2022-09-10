@@ -2,8 +2,8 @@
 node_modules/
 
 # Sources
-dist/
-types/
+/dist/
+/types/
 
 # Archives
 *.tgz
